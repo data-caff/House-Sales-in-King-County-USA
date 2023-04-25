@@ -7,4 +7,4 @@ Boxplots, Regplots
 Linear Regression
 Pipelines
 RidgeRegression
-Polynomial Transform
+Polynomial Transform.
